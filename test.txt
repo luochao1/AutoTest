@@ -2,3 +2,5 @@
 test vim
 22222222222222
 test new branch dev
+test not fast forward merge
+test stash
